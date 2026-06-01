@@ -17,5 +17,6 @@ print('8' in tuple_)
 ```
 ## Output
 <img width="393" height="122" alt="image" src="https://github.com/user-attachments/assets/381bfe9e-0ffe-4354-97c4-789ca141072d" />
+
 ## Result
 Successfully wrote a Python program that checks if the element 'n' and the element 8 exist within a given tuple.
